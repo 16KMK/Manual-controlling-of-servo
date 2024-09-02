@@ -25,6 +25,7 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
+ ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
  ../Core/Src/../../Drivers/Device_Drivers/HD44780_LCD/HD44780_LCD.h \
  ../Core/Src/../../Drivers/Device_Drivers/HD44780_LCD/../../ARM_Drivers/Delay_Micros/dwt_stm32_delay.h
 ../Core/Inc/main.h:
@@ -54,5 +55,6 @@ Core/Src/main.o: ../Core/Src/main.c ../Core/Inc/main.h \
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h:
+../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
 ../Core/Src/../../Drivers/Device_Drivers/HD44780_LCD/HD44780_LCD.h:
 ../Core/Src/../../Drivers/Device_Drivers/HD44780_LCD/../../ARM_Drivers/Delay_Micros/dwt_stm32_delay.h:
